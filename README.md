@@ -101,7 +101,7 @@ To run the Docker container, ensuring the API is accessible on your local machin
 ```bash
 docker run -p 8000:8000 mlops_test
 ```
-This setup will make the API accessible at http://127.0.0.1:8000, allowing you to interact with it through your local network.
+This setup will make the API accessible at http://127.0.0.1:8000/docs, allowing you to interact with it through your local network.
 
 
 ## **Evaluation Metrics**
